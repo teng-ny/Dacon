@@ -8,3 +8,7 @@
 - ### [한국어 문장 관계 분류 경진대회(2022.02.09)](https://github.com/teng-ny/Dacon/tree/main/2.%20%ED%95%9C%EA%B5%AD%EC%96%B4%20%EB%AC%B8%EC%9E%A5%20%EA%B4%80%EA%B3%84%20%EB%B6%84%EB%A5%98%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C) 
   - [대회정보](https://dacon.io/competitions/official/235875/overview/description)
   - Pororo알고리즘
+
+- ### [잡케어 추천 알고리즘 경진대회 (2022.02.16)](https://github.com/teng-ny/Dacon/tree/main/3.%20%EC%9E%A1%EC%BC%80%EC%96%B4%20%EC%B6%94%EC%B2%9C%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C) 
+  - [대회정보](https://dacon.io/competitions/official/235863/overview/description)
+  - catboost + CV 5Fold + threshold
